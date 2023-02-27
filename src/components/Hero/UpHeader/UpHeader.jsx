@@ -1,7 +1,6 @@
 import React from 'react'
 import './UpHeader.css'
-import '../../../images/Logom.svg'
-import Logo from '../../../images/Logom.svg'
+import Logo from '../../../images/logom.svg'
 
 export default function UpHeader() {
     return (

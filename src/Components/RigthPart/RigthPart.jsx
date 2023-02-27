@@ -3,6 +3,7 @@ import './RigthPart.css'
 
 export default function RigthPart() {
     return (
-        <div>RigthPart</div>
+        <div className='rigth-cont'>
+        </div>
     )
 }
