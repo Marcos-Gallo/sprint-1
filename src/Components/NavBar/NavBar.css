@@ -1,0 +1,20 @@
+.navbar-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90vw;
+    height: 55px;
+    position: absolute;
+    top: 3vh;
+    left: 5vw;
+
+
+
+}
+
+.navbar-button {
+    display: flex;
+    justify-items: center;
+    width: 55px;
+    height: 55px;
+}
