@@ -1,0 +1,15 @@
+.header-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90vw;
+    height: 55px;
+    margin: 2%;
+}
+
+.header-button {
+    display: flex;
+    justify-items: center;
+    width: 55px;
+    height: 55px;
+}
