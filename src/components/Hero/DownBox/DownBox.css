@@ -1,0 +1,30 @@
+.bottom-box {
+    background-color: #4338CA;
+    width: 90%;
+    height: 73%;
+    display: flex;
+    border-radius: 6px;
+
+    position: relative;
+}
+
+.baku-img {
+    position: absolute;
+    left: 5%;
+    bottom: 0%;
+}
+
+.academy-img {
+    position: absolute;
+    left: 33%;
+    bottom: 10%;
+}
+
+.bottom-texts {
+    width: 35%;
+    font-size: 90%;
+    position: absolute;
+    left: 55%;
+    top: 15%;
+    color: white;
+}

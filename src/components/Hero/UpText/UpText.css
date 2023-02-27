@@ -1,0 +1,32 @@
+.text-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 55vw;
+    height: 30vh;
+    text-align: center;
+    padding: 2%;
+}
+
+.h2-uptext {
+    font-size: 45px;
+    color: white;
+
+}
+
+.up-description {
+    font-size: 31px;
+    width: 80%;
+    color: white;
+}
+
+.go-button {
+    background-color: #4338CA;
+    width: 22%;
+    height: 35%;
+    color: white;
+    border-radius: 6px;
+    font-size: large;
+    border-style: none;
+}
